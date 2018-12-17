@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-api/common-api.iml" filepath="$PROJECT_DIR$/common-api/common-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-test.iml" filepath="$PROJECT_DIR$/ribbon-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-consumer/user-consumer.iml" filepath="$PROJECT_DIR$/user-consumer/user-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-provider/user-provider.iml" filepath="$PROJECT_DIR$/user-provider/user-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-provider-8082/user-provider-8082.iml" filepath="$PROJECT_DIR$/user-provider-8082/user-provider-8082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-provider-8083/user-provider-8083.iml" filepath="$PROJECT_DIR$/user-provider-8083/user-provider-8083.iml" />
+    </modules>
+  </component>
+</project>
